@@ -4,5 +4,5 @@ function Print(){
     var y = document.getElementById("upwd").value;
 
     alert("User Name : " + x + " pwd : " + y);
-    #Added the new comment line for new comment message to add to the file
+    #Added comment lines - adding one more sentence to the file for merging purpose
 }
