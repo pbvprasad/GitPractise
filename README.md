@@ -1,2 +1,2 @@
 # GitPractise
-Git Practise
+Git Practise - branch creation and merging
