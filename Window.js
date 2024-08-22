@@ -7,4 +7,5 @@ function Print(){
     #Added comment lines - adding one more sentence to the file for merging purpose
     #Added second comment line in .js file
     #Added fourth comment line in .js file
+    #Added thrid comment line in .js file
 }
