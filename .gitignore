@@ -1,2 +1,16 @@
+<<<<<<< HEAD
 #skip html  files
 *.html
+=======
+.htaccess
+css.php
+rpc/
+sites/site*/admin/
+sites/site*/private/
+sites/site*/public/admin/
+sites/site*/public/setup/
+sites/site*/public/theme/
+textpattern/
+HISTORY.txt
+README.txt
+>>>>>>> c1216ff775fe2cd42c7113ed8c9a4519383c42c0
